@@ -7,7 +7,7 @@ package proyectofinalaerolinea;
 
 /**
  *
- * @author sergi
+ * @author sergi y mr.espejo
  */
 public class ProyectoFinalAerolinea {
 
